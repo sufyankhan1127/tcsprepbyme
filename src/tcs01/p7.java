@@ -1,3 +1,6 @@
+//merge intervals if they overlap
+
+
 package tcs01;
 
 import java.util.ArrayList;
